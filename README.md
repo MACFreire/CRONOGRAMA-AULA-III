@@ -1,2 +1,2 @@
-# CRONOGRAMA-AULA-III
+# TECNOLOGIAS EM TI.
 Cronograma de aula para TECNOLOGIAS EM TI
